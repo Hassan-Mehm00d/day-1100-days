@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    ".tutorial/video.json": [
+      {
+        "id": "96ea5037-18df-494f-93aa-321cac0f50ce",
+        "line": 5,
+        "version": 1,
+        "index": 63
+      }
+    ]
+  }
 }
